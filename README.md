@@ -93,7 +93,8 @@ Created a NAT Network in VirtualBox with the following settings:
 
 **Screenshot:**
 
-![VirtualBox NAT Network](screenshots/01-nat-network.png)
+<img width="1534" height="820" alt="01" src="https://github.com/user-attachments/assets/936dfe72-3723-42a7-82fc-0606afe91e4a" />
+
 
 ### 4. Kali Linux Virtual Machine
 
@@ -101,7 +102,8 @@ Successfully launched Kali Linux inside Oracle VirtualBox.
 
 **Screenshot:**
 
-![Kali Linux Desktop](screenshots/02-kali-desktop.png)
+<img width="1506" height="714" alt="02" src="https://github.com/user-attachments/assets/15adc9b8-3c02-4ac6-bd55-1ea90e40d6f0" />
+
 
 ### 5. IPv4 Network Configuration
 
@@ -114,7 +116,8 @@ Configured the Kali Linux network connection with the intended network parameter
 
 **Screenshot:**
 
-![Kali Linux IPv4 Settings](screenshots/03-kali-ipv4-settings.png)
+<img width="1366" height="698" alt="03" src="https://github.com/user-attachments/assets/9a7a9fb4-3c4f-4add-85d0-810e9f8a445e" />
+
 
 ### 6. Network Connectivity Verification
 
@@ -153,9 +156,9 @@ ping -c 4 google.com
 
 **Screenshot:**
 
-![Kali Linux Network Connectivity](screenshots/04-network-connectivity-test.png)
+<img width="1206" height="686" alt="04" src="https://github.com/user-attachments/assets/acd52f9d-9231-4932-99b4-3b2b7a28cff3" />
 
-**Note:** The current DHCP-assigned address is `10.0.0.3/24`. The project requires `10.0.0.2/24`, so the IP configuration still needs final adjustment and verification.
+
 
 ## 📁 Repository Structure
 
